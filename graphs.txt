@@ -1,0 +1,4 @@
+is the graph completely connected
+is the graph simple, does it contain double edges or self edges
+is the graph a tree
+what is the size of graph: number of nodes and number of edges (adj matrix vs list usage)
